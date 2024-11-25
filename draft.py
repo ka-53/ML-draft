@@ -1,5 +1,4 @@
-import numpy as np
+import random
+print(random.randint(1,10))
 
-mylist = [1,2,3]
-x = np.array(mylist)
-print(x)
+
